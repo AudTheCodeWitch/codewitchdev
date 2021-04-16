@@ -20,4 +20,4 @@ url: "https://codewitch.dev" # the base hostname & protocol for your site, e.g. 
 
 permalink: pretty
 
-# timezone: America/Los_Angeles
+timezone: America/Denver
