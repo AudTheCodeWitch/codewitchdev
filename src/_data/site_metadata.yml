@@ -4,11 +4,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.metadata.myvariable }}.
 
-title: Your awesome title
-tagline: This site is totally awesome
-email: your-email@example.com
+title: The Code Witch
+tagline: Audrea Cook's Portfolio
+email: audrea@codewitch.dev
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+  Hi, I'm Audrea Cook. I am a full stack software engineer. Let's talk.
 
 twitter: audthecodewitch
 
