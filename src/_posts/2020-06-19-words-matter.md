@@ -62,7 +62,7 @@ In your GitHub repository:
 
 Click the **Settings** tab. On the side menu, click **Branches**. Select `main` from the dropdown. Click **Update**, confirm the change, and you’re done!
 
-![How to set your default GitHub branch](/uploads/renamed-branch.jpg "Default Branch")
+![How to set your default GitHub branch](/images/renamed-branch.jpg "Default Branch")
 
 ## A Final Thought
 

@@ -59,7 +59,7 @@ Just before the closing `</div>` In the `render()` section, add our component:
 
 In your terminal, run `yarn start`. This will open your application in the browser. Right now, it should look something like this:
 
-![Footer with Hello World](/uploads/footer1.png "Footer")
+![Footer with Hello World](/images/footer1.png "Footer")
 
 ## Fill in the Details
 
@@ -127,7 +127,7 @@ Now, we’re ready to add some more code to our `<footer>` element:
 
 If you save and refresh your browser, the footer should now look something like this:
 
-![Footer with external links and logo](/uploads/footer2.png "Finished footer")
+![Footer with external links and logo](/images/footer2.png "Finished footer")
 
 ## Coming Up
 

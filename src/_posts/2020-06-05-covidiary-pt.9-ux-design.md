@@ -40,7 +40,7 @@ Let's get started.
 First, I created a box for each page I knew I wanted in my application. Then, I rearranged the boxes and connected them with arrows that indicate the user flow. Finally, I grouped the navigation and footer links together, as they will appear on every page.
 
 <p align='center'>
-<img src='/uploads/sitemap.png' alt='COVIDiary Sitemap'>
+<img src='/images/sitemap.png' alt='COVIDiary Sitemap'>
 </p>
 
 ## Drawing the Wireframes
@@ -53,14 +53,14 @@ Having never actually made official wireframes myself, I read a few articles bef
 
 To sketch my wireframes, I grabbed a stack of 3x5 index cards and a marker. When constructing wireframes, many designers use a felt-tipped marker to prevent them from getting too detailed. I used one index card per page. I drew the wireframe on the blank side, and I used the lined side for any quick notes.
 
-<p align='center'> <img src='/uploads/home-wireframe.jpg' alt='Wireframe for COVIDiary home page' width='350'> </p>
+<p align='center'> <img src='/images/home-wireframe.jpg' alt='Wireframe for COVIDiary home page' width='350'> </p>
 
 As you can see, the design for my home page is very simple. At a glance, I can see I want a few images (indicated by the boxed-x placeholder), a brief page intro, and a preview of three recent entries. I also know I want a horizontal navigation bar, and I have a general feel for what the footer should look like. After completing the rest of the wireframes, I can also tell which components will be used over and over, like the diary entries, for example.
 
 If I were collaborating with another developer, now would be a great time to seek feedback and compare notes. We could then iterate on our initial ideas until we have a set of designs we're both happy with. 
 
 <p align='center'>
-<img src='/uploads/wireframes.jpg' alt='Wireframes for COVIDiary app'>
+<img src='/images/wireframes.jpg' alt='Wireframes for COVIDiary app'>
 </p>
 
 Remember, these wireframes are your outline. They are loose sketches, and you aren’t married to any specific idea. Don’t stress too much over your designs at first. Just get some thoughts on paper. We’ll refine our ideas once we start coding.

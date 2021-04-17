@@ -6,7 +6,7 @@ title: 'Course Review: FreeCodeCamp''s JavaScript Algorithms and Data Structures
 ---
 Last week, I completed freeCodeCamp's JavaScript Algorithms and Data Structures course.
 
-![Audrea's JS Algorithms and Data Structures Certificate](/uploads/fcc-js-algorithms-cert.jpg)
+![Audrea's JS Algorithms and Data Structures Certificate](/images/fcc-js-algorithms-cert.jpg)
 
 ## The Curriculum
 

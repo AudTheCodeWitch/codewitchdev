@@ -72,7 +72,7 @@ You can remove all the default React code if you’d like. I moved it into a `ma
 
 Right now, your project will look something like this:
 
-![COVIDiary with the stubbed header component](/uploads/basic-header.jpg "Basic Header")
+![COVIDiary with the stubbed header component](/images/basic-header.jpg "Basic Header")
 
 ## Fill in the Details
 
@@ -122,15 +122,15 @@ Finally, let's add the main navigation links. We want them to collapse into a ha
 
 Our basic header is complete! Here it is on medium and larger screens:
 
-![Header on medium and larger screens](/uploads/medium-header.jpg "Medium Header")
+![Header on medium and larger screens](/images/medium-header.jpg "Medium Header")
 
 Here is the hamburger menu on small screens:
 
-![Header with hamburger menu](/uploads/collapsed-header.jpg "Small Header")
+![Header with hamburger menu](/images/collapsed-header.jpg "Small Header")
 
 And here is the expanded hamburger menu:
 
-![Header with expanded hamburger menu](/uploads/expanded-small-header.jpg "Expanded Small Header")
+![Header with expanded hamburger menu](/images/expanded-small-header.jpg "Expanded Small Header")
 
 ## Coming Up
 
