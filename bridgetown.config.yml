@@ -19,5 +19,7 @@ baseurl: "" # OPTIONAL: the subpath of your site, e.g. /blog
 url: "https://codewitch.dev" # the base hostname & protocol for your site, e.g. https://example.com
 
 permalink: pretty
+pagination:
+  enabled: true
 
 timezone: America/Denver

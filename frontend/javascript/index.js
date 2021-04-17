@@ -1,3 +1,4 @@
+import Bulmatown from "bulmatown"
 
 import "index.scss"
 
