@@ -1,1 +1,14 @@
-@import "~bulmatown/frontend/styles"
+$primary: rgb(131, 102, 150) !default;
+$text:#35374B;
+//$dark: $primary !default;
+//$text: #272421 !default;
+//$red: rgb(216, 34, 80) !default;
+//$link: lighten($primary, 8%) !default;
+//$link-hover: $primary !default;
+//$code: desaturate($primary, 40%);
+//$code-background: #f8f8f8 !default;
+//$pre-background: $code-background;
+//$footer-background-color: lighten(desaturate($primary, 55%), 75%) !default;
+
+
+@import "~bulmatown/frontend/styles";
