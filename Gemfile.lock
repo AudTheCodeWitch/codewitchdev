@@ -44,6 +44,8 @@ GEM
       bridgetown-core (= 0.20.0)
     bridgetown-quick-search (1.0.5)
       bridgetown (>= 0.15.0.beta1, < 2.0)
+    bridgetown-seo-tag (4.0.0)
+      bridgetown (>= 0.20.0, < 2.0)
     bulmatown (1.1.0)
       bridgetown (>= 0.15, < 2.0)
       bridgetown-quick-search (~> 1.0)
@@ -99,6 +101,7 @@ PLATFORMS
 DEPENDENCIES
   bridgetown (~> 0.20.0)
   bridgetown-quick-search (~> 1.0)
+  bridgetown-seo-tag
   bulmatown (~> 1.1)
 
 BUNDLED WITH
