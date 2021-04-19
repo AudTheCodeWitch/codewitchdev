@@ -5,6 +5,7 @@
 $theme_variation: witchy !default;
 
 $primary: rgb(17, 81, 92) !default;
+$secondary: rgb(17, 81, 92) !default;
 
 @if $theme_variation == rust {
   $primary: rgb(92, 32, 17);
@@ -14,13 +15,19 @@ $primary: rgb(17, 81, 92) !default;
   $primary: rgb(35, 51, 56);
 } @else if $theme_variation == witchy {
   $primary: rgb(131, 102, 150);
+  $secondary: rgb(139,209,215);
+  $text: #35374B;
+  $red: rgb(216, 34, 80);
+  $code-background: #CEC9EA;
+  $pre-background: $code-background;
+  $footer-background-color: #C3A8D3;
 }
 
 $dark: $primary !default;
 $text: #272421 !default;
 $red: rgb(216, 34, 80) !default;
-$link: lighten($primary, 8%) !default;
-$link-hover: $primary !default;
+$link: lighten($secondary, 8%) !default;
+$link-hover: $secondary !default;
 $code: desaturate($primary, 40%);
 $code-background: #f8f8f8 !default;
 $pre-background: $code-background;
