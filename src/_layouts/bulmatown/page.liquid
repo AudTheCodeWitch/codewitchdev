@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+{% render "bulmatown/hero_wrapper",
+    title: page.title,
+    subtitle: page.subtitle,
+    page: page,
+    metadata: site.metadata
+%}
+
+<section class="section">
+  <div class="container">
+    <div class="content">
+      {{ content }}
+    </div>
+  </div>
+</section>
