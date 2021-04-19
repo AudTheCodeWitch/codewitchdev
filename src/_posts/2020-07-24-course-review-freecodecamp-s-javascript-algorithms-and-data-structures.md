@@ -2,6 +2,7 @@
 layout: post
 date: 2020-07-24 16:00:00 -0600
 title: 'Course Review: FreeCodeCamp''s JavaScript Algorithms and Data Structures'
+permalink: course_review_freecodecamps_javascript_algorithms_and_data_structures'
 
 ---
 Last week, I completed freeCodeCamp's JavaScript Algorithms and Data Structures course.
