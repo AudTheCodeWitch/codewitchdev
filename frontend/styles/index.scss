@@ -1,8 +1,19 @@
-/* Use in your app by simply adding to your app's index.scss:
-@import "~bulmatown/frontend/styles";
-*/
+@import url('https://fonts.googleapis.com/css2?family=Life+Savers:wght@400;700&family=Maven+Pro:wght@400;500;600;700&display=swap');
 
 $theme_variation: witchy !default;
+
+// Typography
+$family-primary: 'Maven Pro', sans-serif;
+$family-secondary: 'Life Savers', cursive;
+
+h1 {
+  font-family: $family-secondary;
+  font-weight: bold;
+}
+
+h3, h4, h5, h6 {
+  font-family: $family-primary
+}
 
 $primary: rgb(17, 81, 92) !default;
 $secondary: rgb(17, 81, 92) !default;
@@ -15,8 +26,8 @@ $secondary: rgb(17, 81, 92) !default;
   $primary: rgb(35, 51, 56);
 } @else if $theme_variation == witchy {
   $primary: rgb(131, 102, 150);
-  $secondary: rgb(139,209,215);
-  $text: #35374B;
+  $secondary: rgb(119, 188, 193);
+  $text: rgb(53, 55, 75);
   $red: rgb(216, 34, 80);
   $code-background: #CEC9EA;
   $pre-background: $code-background;
@@ -24,7 +35,7 @@ $secondary: rgb(17, 81, 92) !default;
 }
 
 $dark: $primary !default;
-$text: #272421 !default;
+$text: rgb(53, 55, 75) !default;
 $red: rgb(216, 34, 80) !default;
 $link: lighten($secondary, 8%) !default;
 $link-hover: $secondary !default;
