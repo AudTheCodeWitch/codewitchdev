@@ -1,0 +1,26 @@
+---
+layout: home
+---
+
+<div class="columns is-vcentered">
+  <div class="column is-two-fifths">
+    <figure class="image">
+      <img src="/images/headshot.png" alt="Audrea Cook"/>
+    </figure>
+  </div>
+  <div class="column">
+    <article class="message is-primary is-medium">
+      <div class="message-body">
+        <h2 class="has-text-primary-dark">Hi, I'm Audrea Cook!</h2>
+        <p>I'm a full-stack engineer who specializes in Ruby. I've got a thing for learning new frameworks (this site is built on Bridgetown, for example), improving my code, and learning all I possibly can.</p>
+        <p>I am currently searching for my next dev role. Think I might be a good fit? Let's talk!</p>
+      </div>
+    </article>
+  </div>
+</div>
+<% posts = site.posts.docs.reverse[0..3] %>
+<%= liquid_render "bulmatown/collection", collection: posts, metadata: site.metadata %>
+
+<% if site.posts.docs.size > 4 %>
+  <a href="/posts/" class="button is-primary is-outlined is-small"><span>Previous Articles</span> <span class="icon"><i class="fa fa-arrow-right"></i></span></a>
+<% end %>
