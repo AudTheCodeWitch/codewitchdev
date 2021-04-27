@@ -1,42 +1,13 @@
 {% rendercontent "bulmatown/navbar", class: "is-dark" %}
   {% with logo %}
     <a class="navbar-item" href="/">
-      {{ metadata.title }}
+      <img src="/images/CodeWitchLogo.png" alt="The Code Witch"/>
     </a>
   {% endwith %}
   {% with items_start %}
     <a class="navbar-item" href="/">Home</a>
     <a class="navbar-item" href="/posts">Articles</a>
     <a class="navbar-item" href="/about">About</a>
-    <div class="navbar-item has-dropdown is-hoverable">
-      <a class="navbar-link" href="#">
-        Topics
-      </a>
-      <div class="navbar-dropdown is-boxed">
-        <a class="navbar-item" href="https://bulma.io/documentation/overview/start/">
-          Overview
-        </a>
-        <a class="navbar-item" href="https://bulma.io/documentation/overview/modifiers/">
-          Modifiers
-        </a>
-        <a class="navbar-item" href="https://bulma.io/documentation/columns/basics/">
-          Columns
-        </a>
-        <a class="navbar-item" href="https://bulma.io/documentation/layout/container/">
-          Layout
-        </a>
-        <a class="navbar-item" href="https://bulma.io/documentation/form/general/">
-          Form
-        </a>
-        <hr class="navbar-divider">
-        <a class="navbar-item" href="https://bulma.io/documentation/elements/box/">
-          Elements
-        </a>
-        <a class="navbar-item" href="https://bulma.io/documentation/components/breadcrumb/">
-          Components
-        </a>
-      </div>
-    </div>
   {% endwith %}
 
   {% with items_end %}
