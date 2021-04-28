@@ -3,6 +3,9 @@ layout: post
 title:      "COVIDiary pt. 4 - Frontend Setup"
 date:       2020-04-17 22:11:46 +0000
 permalink:  covidiary_pt_4_-_frontend_setup
+image:
+image_hero:
+rainbow_hero: true
 ---
 
 

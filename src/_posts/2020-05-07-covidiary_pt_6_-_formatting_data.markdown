@@ -3,6 +3,9 @@ layout: post
 title:      "COVIDiary pt. 6 - Formatting Data"
 date:       2020-05-07 15:54:52 -0400
 permalink:  covidiary_pt_6_-_formatting_data
+image:
+image_hero:
+rainbow_hero: true
 ---
 
 Welcome to Part 6 of the COVIDiary project! If you’re just joining us or missed a post, here’s what we’ve done so far:

@@ -3,7 +3,9 @@ layout: post
 date: 2020-06-26 15:29:46 -0600
 title: COVIDiary pt. 11 - Basic Header
 permalink: covidiary_pt_11_-_basic_header
-
+image:
+image_hero:
+rainbow_hero: true
 ---
 Welcome to Part 11 of the COVIDiary project! If you’re just joining us or missed a post, here’s what we’ve done so far:
 

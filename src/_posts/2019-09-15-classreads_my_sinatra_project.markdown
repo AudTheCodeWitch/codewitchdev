@@ -3,6 +3,9 @@ layout: post
 title:      "ClassReads: My Sinatra Project"
 date:       2019-09-15 17:40:53 -0400
 permalink:  classreads_my_sinatra_project
+image: 
+image_hero: 
+rainbow_hero: true
 ---
 
 

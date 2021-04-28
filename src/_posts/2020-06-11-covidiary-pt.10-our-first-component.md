@@ -3,7 +3,9 @@ layout: post
 date: 2020-06-11 21:37:41 +0000
 title: COVIDiary pt. 10 - Our First Component
 permalink: covidiary_pt_10_-_our_first_component
-
+image:
+image_hero:
+rainbow_hero: true
 ---
 Welcome to Part 10 of the COVIDiary project! If you’re just joining us or missed a post, here’s what we’ve done so far:
 

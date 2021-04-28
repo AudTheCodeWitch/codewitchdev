@@ -3,6 +3,9 @@ layout: post
 title:      "COVIDiary pt. 8 - Make the Connection"
 date:       2020-05-21 19:17:10 +0000
 permalink:  covidiary_pt_8_-_make_the_connection
+image:
+image_hero:
+rainbow_hero: true
 ---
 
 

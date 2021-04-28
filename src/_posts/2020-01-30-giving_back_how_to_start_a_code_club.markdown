@@ -3,6 +3,9 @@ layout: post
 title:      "Giving Back: How to Start a Code Club"
 date:       2020-01-30 21:57:10 +0000
 permalink:  giving_back_how_to_start_a_code_club
+image:
+image_hero:
+rainbow_hero: true
 ---
 
 

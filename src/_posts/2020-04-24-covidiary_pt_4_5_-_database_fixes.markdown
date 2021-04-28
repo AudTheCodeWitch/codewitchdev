@@ -3,6 +3,9 @@ layout: post
 title:      "COVIDiary pt. 4.5 - Database Fixes"
 date:       2020-04-24 16:21:20 +0000
 permalink:  covidiary_pt_4_5_-_database_fixes
+image:
+image_hero:
+rainbow_hero: true
 ---
 
 

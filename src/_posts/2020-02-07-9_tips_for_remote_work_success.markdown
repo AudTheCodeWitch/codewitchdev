@@ -3,6 +3,9 @@ layout: post
 title:      "9 Tips for Remote Work Success"
 date:       2020-02-07 23:09:58 +0000
 permalink:  9_tips_for_remote_work_success
+image:
+image_hero:
+rainbow_hero: true
 ---
 
 My husband is working from home today, against his will. A random Colorado snowstorm turned the roads into a city-wide ice rink and forced him to leave the office before lunch. This happens regularly during the winter. Nearly every time it does, the words, “I don’t know how you do this every day,” cross his lips.

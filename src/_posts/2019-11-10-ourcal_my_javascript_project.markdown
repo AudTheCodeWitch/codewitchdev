@@ -3,6 +3,9 @@ layout: post
 title:      "OurCAL: My Javascript Project"
 date:       2019-11-10 20:56:31 -0500
 permalink:  ourcal_my_javascript_project
+image:
+image_hero:
+rainbow_hero: true
 ---
 
 

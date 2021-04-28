@@ -3,6 +3,9 @@ layout: post
 title:      "Crystal Correspondences: My CLI Project"
 date:       2019-08-09 19:12:20 -0400
 permalink:  crystal_correspondences_my_cli_project
+image: 
+image_hero: 
+rainbow_hero: true
 ---
 
 What a whirlwind this week has been! Throughout this CLI Project Week, I rode an emotional and mental rollercoaster that tested my commitment to my programming journey. Now that I’m safely on the other side, I am excited to share my project with you! Let’s dive right in, shall we?

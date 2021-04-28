@@ -3,6 +3,9 @@ layout: post
 title:      "COVIDiary - a Rails/React Project"
 date:       2020-03-26 15:36:33 -0400
 permalink:  covidiary_-_a_rails_react_project
+image:
+image_hero:
+rainbow_hero: true
 ---
 
 As of this morning, Colorado is officially under lockdown until April 11, at the earliest. My husband and I decided to self-isolate in an effort to flatten the curve just under two weeks ago, but the official orders highlight the magnitude of the COVID-19 crisis. 

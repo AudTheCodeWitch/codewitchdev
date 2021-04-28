@@ -3,6 +3,9 @@ layout: post
 title:      "COVIDiary pt. 3 - Building the Database"
 date:       2020-04-09 17:35:59 -0400
 permalink:  covidiary_pt_3_-_building_the_database
+image:
+image_hero:
+rainbow_hero: true
 ---
 
 

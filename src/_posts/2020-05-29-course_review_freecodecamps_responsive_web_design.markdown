@@ -3,6 +3,9 @@ layout: post
 title:      "Course Review: FreeCodeCamp's Responsive Web Design"
 date:       2020-05-30 01:29:16 +0000
 permalink:  course_review_freecodecamps_responsive_web_design
+image:
+image_hero:
+rainbow_hero: true
 ---
 
 We're taking a short break from COVIDiary, simply because I wanted to share something else I've been working on with you. Just last night, I completed [freeCodeCamp's Responsive Web Design](https://www.freecodecamp.org/learn/) course.

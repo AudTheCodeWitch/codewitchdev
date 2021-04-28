@@ -3,6 +3,9 @@ layout: post
 title:      "JS .splice() and .slice() with the Code Witch"
 date:       2020-02-13 14:11:59 -0500
 permalink:  js_splice_and_slice_with_the_code_witch
+image:
+image_hero:
+rainbow_hero: true
 ---
 
 

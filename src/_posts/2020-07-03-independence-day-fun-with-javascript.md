@@ -3,7 +3,9 @@ layout: post
 date: 2020-07-03 13:43:35 -0600
 title: Independence Day Fun With JavaScript
 permalink: independence_day_fun_with_javascript
-
+image:
+image_hero:
+rainbow_hero: true
 ---
 If you live in the USA, Happy Independence Day! I've been busy this week doing family stuff, so I honestly haven't touched the COVIDiary project. We'll hopefully get back into that in the next week or so.
 

@@ -3,6 +3,9 @@ layout: post
 title:      "TankMate 1.0: My Rails Project"
 date:       2019-10-13 23:21:23 -0400
 permalink:  tankmate_1_0_my_rails_project
+image: 
+image_hero: 
+rainbow_hero: true
 ---
 
 
