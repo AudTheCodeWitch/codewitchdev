@@ -3,8 +3,8 @@ layout: post
 title:      "Post-Graduation Organization"
 date:       2020-01-09 19:28:53 +0000
 permalink:  post-graduation_organization
-image:
-image_hero:
+image: /images/heroes/post_graduation_organization.jpg
+image_hero: /images/heroes/post_graduation_organization.jpg
 rainbow_hero: true
 ---
 

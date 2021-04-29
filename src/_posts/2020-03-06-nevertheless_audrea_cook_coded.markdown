@@ -3,8 +3,8 @@ layout: post
 title:      "Nevertheless, Audrea Cook Coded"
 date:       2020-03-06 18:43:42 -0500
 permalink:  nevertheless_audrea_cook_coded
-image:
-image_hero:
+image: /images/heroes/she_coded.jpg
+image_hero: /images/heroes/she_coded.jpg
 rainbow_hero: true
 ---
 

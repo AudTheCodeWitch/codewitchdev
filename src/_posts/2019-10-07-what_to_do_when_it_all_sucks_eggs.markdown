@@ -3,8 +3,8 @@ layout: post
 title:      "What to Do When It All Sucks Eggs"
 date:       2019-10-07 16:11:26 -0400
 permalink:  what_to_do_when_it_all_sucks_eggs
-image: 
-image_hero: 
+image: /images/heroes/growth_mindset.jpg
+image_hero: /images/heroes/growth_mindset.jpg
 rainbow_hero: true
 ---
 

@@ -3,8 +3,8 @@ layout: post
 title:      "COVIDiary pt. 5 - Backend Routing"
 date:       2020-05-01 21:07:44 +0000
 permalink:  covidiary_pt_5_-_backend_routing
-image:
-image_hero:
+image: /images/heroes/covidiary.jpg
+image_hero: /images/heroes/covidiary.jpg
 rainbow_hero: true
 ---
 

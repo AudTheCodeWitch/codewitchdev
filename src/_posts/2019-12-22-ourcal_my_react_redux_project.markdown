@@ -3,8 +3,8 @@ layout: post
 title:      "OurCAL: My React/Redux Project"
 date:       2019-12-22 22:40:26 +0000
 permalink:  ourcal_my_react_redux_project
-image:
-image_hero:
+image: /images/heroes/ourcal_react.jpg
+image_hero: /images/heroes/ourcal_react.jpg
 rainbow_hero: true
 ---
 

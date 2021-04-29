@@ -3,8 +3,8 @@ layout: post
 title:      "Upgrade Your Basic Flatiron Blog"
 date:       2020-02-20 17:22:35 -0500
 permalink:  upgrade_your_basic_flatiron_blog
-image:
-image_hero:
+image: /images/heroes/upgrade_blog.png
+image_hero: /images/heroes/upgrade_blog.png
 rainbow_hero: true
 ---
 

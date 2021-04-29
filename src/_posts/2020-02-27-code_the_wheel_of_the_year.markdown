@@ -3,8 +3,8 @@ layout: post
 title:      "Code the Wheel of the Year"
 date:       2020-02-27 19:12:57 -0500
 permalink:  code_the_wheel_of_the_year
-image:
-image_hero:
+image: /images/heroes/wheel_of_the_year.jpg
+image_hero: /images/heroes/wheel_of_the_year.jpg
 rainbow_hero: true
 ---
 

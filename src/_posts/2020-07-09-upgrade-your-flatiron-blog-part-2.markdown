@@ -3,8 +3,8 @@ layout: post
 title: Upgrade Your Flatiron Blog - Part 2
 date: 2020-07-09 16:15:00 -0600
 permalink: upgrade_your_flatiron_blog_part_2
-image:
-image_hero:
+image: /images/heroes/upgrade_blog.png
+image_hero: /images/heroes/upgrade_blog.png
 rainbow_hero: true
 ---
 A few months ago, I shared [how to spruce up your Flatiron blog](https://www.codewitch.dev/upgrade_your_basic_flatiron_blog). Since then, I've continued to publish a new blog post each week. Learn.co provides Flatiron students with a built-in blogging platform that is serviceable, if not flashy. Of CodeWitch.dev's 35 blog posts, I wrote and published 30 of them through Learn.co.

@@ -3,8 +3,8 @@ layout: post
 title:      "9 Tips for Remote Work Success"
 date:       2020-02-07 23:09:58 +0000
 permalink:  9_tips_for_remote_work_success
-image:
-image_hero:
+image: /images/heroes/remote_work.jpg
+image_hero: /images/heroes/remote_work.jpg
 rainbow_hero: true
 ---
 

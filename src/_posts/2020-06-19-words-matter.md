@@ -3,8 +3,8 @@ layout: post
 date: 2020-06-19 15:43:53 -0600
 title: Words Matter
 permalink: words_matter
-image:
-image_hero:
+image: /images/heroes/words_matter.jpg
+image_hero: /images/heroes/words_matter.jpg
 rainbow_hero: true
 ---
 Earlier this week, GitHub announced they are working on changing their default branch name from `master` to `main` to show solidarity with the Black Lives Matter movement. This sparked a bit of a Twitter storm, with arguments both for and against this change.

@@ -3,8 +3,8 @@ layout: post
 title:      "COVIDiary pt. 6 - Formatting Data"
 date:       2020-05-07 15:54:52 -0400
 permalink:  covidiary_pt_6_-_formatting_data
-image:
-image_hero:
+image: /images/heroes/covidiary.jpg
+image_hero: /images/heroes/covidiary.jpg
 rainbow_hero: true
 ---
 

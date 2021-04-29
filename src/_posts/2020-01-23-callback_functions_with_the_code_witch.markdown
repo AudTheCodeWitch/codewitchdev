@@ -3,8 +3,8 @@ layout: post
 title:      "Callback Functions with the Code Witch"
 date:       2020-01-23 20:07:38 +0000
 permalink:  callback_functions_with_the_code_witch
-image:
-image_hero:
+image: /images/heroes/callbacks.jpg
+image_hero: /images/heroes/callbacks.jpg
 rainbow_hero: true
 ---
 

@@ -3,8 +3,8 @@ layout: post
 title:      "COVIDiary pt. 7 - A Little More Action"
 date:       2020-05-15 20:26:37 +0000
 permalink:  covidiary_pt_7_-_a_little_more_action
-image:
-image_hero:
+image: /images/heroes/covidiary.jpg
+image_hero: /images/heroes/covidiary.jpg
 rainbow_hero: true
 ---
 

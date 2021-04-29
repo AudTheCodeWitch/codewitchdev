@@ -3,8 +3,8 @@ layout: post
 title:      "The Heroine's Journey"
 date:       2019-07-31 18:53:29 +0000
 permalink:  the_heroines_journey
-image: 
-image_hero: 
+image: /images/heroes/heroines_journey.jpg
+image_hero: /images/heroes/heroines_journey.jpg
 rainbow_hero: true
 ---
 

@@ -3,8 +3,8 @@ layout: post
 title:      "Closures with the Code Witch"
 date:       2020-01-17 22:13:56 +0000
 permalink:  closures_with_the_code_witch
-image:
-image_hero:
+image: /images/heroes/closures.jpg
+image_hero: /images/heroes/closures.jpg
 rainbow_hero: true
 ---
 

@@ -3,8 +3,8 @@ layout: post
 title:      "JS .map() and .filter() with the Code Witch"
 date:       2020-03-19 18:13:47 -0400
 permalink:  js_map_and_filter_with_the_code_witch
-image:
-image_hero:
+image: /images/heroes/map_and_filter.jpg
+image_hero: /images/heroes/map_and_filter.jpg
 rainbow_hero: true
 ---
 

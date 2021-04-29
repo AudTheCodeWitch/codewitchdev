@@ -3,8 +3,8 @@ layout: post
 title:      "Crystal Correspondences: My CLI Project"
 date:       2019-08-09 19:12:20 -0400
 permalink:  crystal_correspondences_my_cli_project
-image: 
-image_hero: 
+image: /images/heroes/crystal_correspondences.jpg
+image_hero: /images/heroes/crystal_correspondences.jpg
 rainbow_hero: true
 ---
 

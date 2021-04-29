@@ -3,8 +3,8 @@ layout: post
 title:      "Giving Back: How to Start a Code Club"
 date:       2020-01-30 21:57:10 +0000
 permalink:  giving_back_how_to_start_a_code_club
-image:
-image_hero:
+image: /images/heroes/code_club.jpg
+image_hero: /images/heroes/code_club.jpg
 rainbow_hero: true
 ---
 

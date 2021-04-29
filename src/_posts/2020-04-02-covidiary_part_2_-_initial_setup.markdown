@@ -3,8 +3,8 @@ layout: post
 title:      "COVIDiary Part 2 - Initial Setup"
 date:       2020-04-02 17:49:44 -0400
 permalink:  covidiary_part_2_-_initial_setup
-image:
-image_hero:
+image: /images/heroes/covidiary.jpg
+image_hero: /images/heroes/covidiary.jpg
 rainbow_hero: true
 ---
 

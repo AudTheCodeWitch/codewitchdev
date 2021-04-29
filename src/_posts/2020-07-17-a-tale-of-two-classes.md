@@ -3,8 +3,8 @@ layout: post
 date: 2020-07-17 11:06:31 -0600
 title: A Tale of Two Classes
 permalink: a_tale_of_two_classes
-image:
-image_hero:
+image: /images/heroes/two_classes.jpg
+image_hero: /images/heroes/two_classes.jpg
 rainbow_hero: true
 ---
 Yesterday, I was challenged by a potential employer (fingers crossed) to share a few JS classes I'm proud of. I had a lot of fun writing this up, and I figured I would share it with y'all, as well.

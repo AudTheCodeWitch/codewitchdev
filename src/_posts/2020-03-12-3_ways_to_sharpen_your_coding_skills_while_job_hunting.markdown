@@ -3,8 +3,8 @@ layout: post
 title:      "3 Ways to Sharpen your Coding Skills while Job Hunting"
 date:       2020-03-12 18:04:35 -0400
 permalink:  3_ways_to_sharpen_your_coding_skills_while_job_hunting
-image:
-image_hero:
+image: /images/heroes/sharpen_coding_skills.jpg
+image_hero: /images/heroes/sharpen_coding_skills.jpg
 rainbow_hero: true
 ---
 

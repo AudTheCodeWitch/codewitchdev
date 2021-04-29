@@ -3,8 +3,8 @@ layout: post
 date: 2020-06-05 19:56:17 +0000
 title: COVIDiary pt. 9 - UX Design
 permalink: covidiary_pt_9_-_ux_design
-image:
-image_hero:
+image: /images/heroes/covidiary.jpg
+image_hero: /images/heroes/covidiary.jpg
 rainbow_hero: true
 
 ---
