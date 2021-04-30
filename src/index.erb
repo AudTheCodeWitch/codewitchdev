@@ -6,8 +6,8 @@ rainbow_hero: true
 ---
 
 <div class="columns is-vcentered">
-  <div class="column is-two-fifths">
-    <figure class="image">
+  <div class="column is-two-fifths is-hidden-touch">
+    <figure class="image ml-0">
       <img src="/images/headshot.png" alt="Audrea Cook"/>
     </figure>
   </div>
@@ -16,11 +16,17 @@ rainbow_hero: true
       <div class="message-body">
         <h2 class="has-text-primary-dark">Hi, I'm Audrea Cook!</h2>
         <p>I'm a full-stack engineer who specializes in Ruby. I've got a thing for learning new frameworks (this site is built on Bridgetown, for example), improving my code, and learning all I possibly can.</p>
-        <p>I am currently searching for my next dev role. Think I might be a good fit? Let's talk!</p>
+        <p>I am currently searching for my next dev role.</p>
+        <a class="button is-large is-fullwidth" href="mailto: audrea@codewitch.dev" target="_blank">Let's Talk</a>
       </div>
     </article>
   </div>
 </div>
+
+<div class="block">
+
+</div>
+
 <% posts = site.posts.docs.reverse[0..3] %>
 <%= liquid_render "bulmatown/collection", collection: posts, metadata: site.metadata %>
 
