@@ -10,14 +10,14 @@
             </a>
           </figure>
         {% endif %}
-    
+
         <div class="content">
           <h3>
             <a class="is-decorationless" href="{{ document.url }}">
               {{ document.title | smartify }}
             </a>
           </h3>
-    
+
           {% if document.subtitle and document.subtitle != "" %}
             {% assign excerpt = document.subtitle | smartify | prepend: "<p>" | append: "</p>" %}
           {% elsif document.description and document.description != "" %}
@@ -26,7 +26,7 @@
             {% assign excerpt = document.excerpt %}
           {% endif %}
           {{ excerpt }}
-          
+
           <p class="mt-5">
             {% render "bulmatown/button", type: "primary", label: "Continue Reading", link: document.url, icon: "file-text" %}
           </p>
