@@ -37,12 +37,12 @@ $secondary: rgb(17, 81, 92) !default;
 $dark: $primary !default;
 $text: rgb(53, 55, 75) !default;
 $red: rgb(216, 34, 80) !default;
-$link: lighten($secondary, 8%) !default;
+$link: darken($secondary, 20%) !default;
 $link-hover: $secondary !default;
 $code: desaturate($primary, 40%);
 $code-background: #f8f8f8 !default;
 $pre-background: $code-background;
-$footer-background-color: lighten(desaturate($primary, 55%), 75%) !default;
+$footer-background-color: lighten($primary, 40%) !default;
 $footer-padding: 3rem 1.5rem 5rem !default;
 
 $body-size: 18px !default;
@@ -95,7 +95,7 @@ nav > .container {
   main a:not(.button) {
     text-decoration: underline;
     text-decoration-style: dotted;
-    text-decoration-color: lighten(desaturate($primary, 50%), 40%);
+    text-decoration-color: $footer-background-color;
   }
 }
 .is-decorationless {
@@ -146,6 +146,7 @@ article .author {
 
 footer.footer {
   margin-top: $footer-top-margin;
+  background-color: $footer-background-color;
 
   @include mobile {
     .column:not(:last-child) {
