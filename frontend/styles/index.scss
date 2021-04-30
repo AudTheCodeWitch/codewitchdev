@@ -15,6 +15,11 @@ h3, h4, h5, h6 {
   font-family: $family-primary
 }
 
+.highlights li {
+  list-style: "🔮" outside;
+  padding-left: 10px;
+}
+
 $primary: rgb(17, 81, 92) !default;
 $secondary: rgb(17, 81, 92) !default;
 
