@@ -7,7 +7,13 @@
   {% with items_start %}
     <a class="navbar-item" href="/">Home</a>
     <a class="navbar-item" href="/posts">Articles</a>
-    <a class="navbar-item" href="/about">About</a>
+    <div class="navbar-item has-dropdown is-hoverable">
+      <a class="navbar-link" href="/about">About</a>
+      <div class="navbar-dropdown is-boxed">
+        <a class="navbar-item" href="/about/resume">Resume</a>
+      </div>
+    </div>
+
   {% endwith %}
 
   {% with items_end %}
