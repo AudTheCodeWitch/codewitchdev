@@ -46,8 +46,8 @@ If you see room for improvement, please file an issue or submit a pull request!
 
 ## Recognition
 Special thanks goes to:
-- @baronlip for fixing my pathetic attempt at a logo
-- @boardfish for general technical know-how and suggesting the Bridgetown framework
-- @docswarlock for helping with copy and generally putting up with being married to The Code Witch. 
-- @eileenmsantiago for her amazing design work
-- @jaredcwhite and the folks at Bridgetown for being helpful throughout this process
+- [@baronlip](https://github.com/baronlip) for fixing my pathetic attempt at a logo
+- [@boardfish](https://github.com/boardfish) for general technical know-how and suggesting the Bridgetown framework
+- [@docswarlock](https://github.com/docswarlock) for helping with copy and generally putting up with being married to The Code Witch. 
+- [@eileenmsantiago](https://github.com/eileenmsantiago) for her amazing design work
+- [@jaredcwhite](https://github.com/jaredcwhite) and the folks at Bridgetown for being helpful throughout this process
