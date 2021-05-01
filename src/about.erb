@@ -11,63 +11,128 @@ rainbow_hero: true
 <article>
   <div class="columns is-vcentered">
     <div class="column">
-      <h1>Quick Facts</h1>
+      <h3 class="is-size-3 has-text-weight-light">Quick Facts</h3>
       <ul class="highlights ml-4">
-        <li>My name is pronounced "Odd-ra." You can call me Aud. My pronouns are "she/her."</li>
-        <li>I married my high school sweetheart, Dex Cook. We have two dog daughters, Juniper Rose “Juju” the whippet pup, and Ally the shiba inu mix.</li>
-        <li>My areas of genius are literature, crochet, and fish-keeping.</li>
-        <li>I live in Colorful Colorado, at the base of Pikes Peak</li>
-        <li>“Witchcraft!”  is Aud-speak for “Oooh, that’s cool! I may not know how it works, but I like it.”.</li>
+        <li>My name is pronounced “Odd-ra.” You can call me Aud. My pronouns are “she/her.”</li>
+        <li>I married my high school sweetheart, Dex. We have two dog daughters, Juniper Rose “Juju” the whippet pup, and Ally the shiba inu mix.</li>
+        <li>My areas of random genius are crochet, fish-keeping, and literature.</li>
+        <li>I'm a voracious reader. Want to see what I'm reading currently? Check out my
+          <a href='https://app.thestorygraph.com/profile/audthecodewitch' target="_blank">StoryGraph</a>.</li>
+        <li>I live in Colorful Colorado, at the base of Pikes Peak.</li>
+        <li>“Witchcraft!” is Aud-speak for “Oooh, that’s neat!”</li>
       </ul>
-
+      <a class="my-6 button is-large is-fullwidth is-light is-primary" href="/about/resume">My Resume</a>
     </div>
     <div class="column">
-      <figure style="text-align: center;">
-        <img
-          src="/images/doggos.jpg"
-          alt="Ally and Juju"
-          style="height: 250px; display: inline-block"
-          />
-        <figcaption style="font-size: smaller">
-          Juniper Rose and Ally having a cuddle.
-        </figcaption>
+      <figure>
+        <img src="/images/selfie.png" alt="Audrea Cook"/>
       </figure>
     </div>
   </div>
-
-  <div>
-    <h1>Tech Journey</h1>
+  <hr class="block"/>
+  <section class="section is-small">
+    <h3 class="is-size-3 has-text-weight-light">Tech Journey</h3>
     <p>
-      You can learn a lot about my professional life on my
-      <a href="https://www.linkedin.com/in/audreacook/" target="_blank">LinkedIn</a>
-      and
-      <a href="https://github.com/AudTheCodeWitch" target="_blank">GitHub</a>
-      profiles.
+      After playing with HTML, CSS, and JavaScript on and off for over a decade, I finally decided to get serious
+      about code in 2019. I enrolled in Flatiron School's Full Stack Web Development course and set out to learn as
+      much as I possibly could. After completing their program, I continued with my studies as I sought my first dev
+      role.
     </p>
-  </div>
-
-  <div>
-    <h1>The Bigger Picture</h1>
-    I crochet. A lot. My crowning crafty achievement is my king-size
-    <a
-      href="https://www.mooglyblog.com/category/2014-afghan-cal/"
-      style="text-decoration: underline"
-      target="_blank"
-    >MooglyCal</a
-    >
-    afghan, which I completed in 2017. I am currently working on several new
-    projects, including two blankets.
-
-    When I'm not coding or crocheting, I've probably got my nose stuck in a
-    book. With a degree in English literature, I just can't help it! My goal
-    for the last few years has been to read at least one book a week. If you
-    are a fellow bookworm, join me on
-    <a
-      href="https://www.goodreads.com/user/show/1778734-audrea"
-      style="text-decoration: underline"
-      target="_blank"
-    >GoodReads</a
-    >!
-
-  </div>
+    <p>
+      In October 2020, I joined Raise.dev as a software engineer. I worked across the stack, learning the ins and outs
+      of the app as well as the powerful tools that it is built upon.
+    </p>
+    <p>
+      One of my main goals at Raise was to learn and practice test-driven development with RSpec. This spurred one of
+      my favorite projects, building a Minesweeper clone using TDD and object-oriented programming... all while
+      live-streaming on Twitch.
+    </p>
+    <nav class="level block">
+      <div class="level-item has-text-centered">
+        <a href="https://linkedin.com/in/{{ metadata.linkedin }}" target="_blank">
+          <button class="button is-inverted"><i class="fa fa-linkedin is-size-5 pr-3"></i>LinkedIn</button>
+        </a>
+      </div>
+      <div class="level-item has-text-centered">
+        <a href="https://github.com/{{ metadata.github }}" class="mr-2" target="_blank">
+          <button class="button is-inverted"><i class="fa fa-github is-size-5 pr-3"></i>GitHub</button>
+        </a>
+      </div>
+    </nav>
+    <div class="box">
+      <h4 class="is-size-4 has-text-weight-medium">🥰 What I love about coding</h4>
+      <ul>
+        <li>
+          The best part of programming is the puzzle. Everything is more complicated than it seems at first glance, but
+          the payoff when a tricky concept clicks into place is worth it every time. 💡
+        </li>
+        <li>
+          I have the pleasure of interacting with an amazing and diverse community every day! Work is a thing we have to
+          do to survive (💯 I'd totally retire if I won the lottery), but the friendships I've made since entering this
+          industry an an overwhelming source of the joy for me.
+        </li>
+        <li>
+          I am a firm believer in having a growth mindset. Every time I say, “I don’t know,” my mind automatically adds a
+          parenthetical “yet.” The beauty of this industry is it's so broad that I know I'll always be learning something
+          new.
+        </li>
+      </ul>
+    </div>
+  </section>
+  <hr class="block"/>
+  <section class="section is-small">
+    <h3 class="is-size-3 has-text-weight-light">The Bigger Picture</h3>
+    <p>
+      We all know life exists outside tech. Previous career experiences that inform my work include an undergrad in
+      English literature, managing a multi-million dollar roofing company, trying my hand at entrepreneurship, and my
+      stint as a second-grade public school teacher.
+    </p>
+    <p>
+      I'm a fifth-generation Coloradan, born from a long line of ranchers. While I've actively worked to retrain my
+      brain from some of the "rub some dirt in it" cowboy mentality, my love for family, the land, and all the creatures
+      on it stem from my upbringing. I was lucky to grow up with easy access to the wilderness, the opportunity to care
+      for a host of amazing animals, and the freedom to explore and learn about the world around me. As fun as coding
+      is, my first true love will always be Mama Nature.
+    </p>
+    <p>
+      In addition to my love of the natural world, I am obsessed with crafts, especially the fiber arts. Crochet is
+      my area of expertise, with a king-sized <a href="https://www.mooglyblog.com/category/2014-afghan-cal/">MooglyCal</a>
+      afghan as the height of my achievement. Additionally, you'll find me randomly making ornaments for my Yule tree,
+      an assortment of decorations and costumes for my annual Samhain party, and any other creative bit of fun I can
+      think of. Check out my Pinterest to see what crafts I'm currently pursuing (hint: it's usually more crochet). 🧶
+    </p>
+    <nav class="level block">
+      <div class="level-item has-text-centered">
+        <a href="https://linkedin.com/in/{{ metadata.twitter }}" target="_blank">
+          <button class="button is-inverted"><i class="fa fa-twitter is-size-5 pr-3"></i>Twitter</button>
+        </a>
+      </div>
+      <div class="level-item has-text-centered">
+        <a href="https://www.pinterest.com/{{ metadata.pinterest }}" class="mr-2" target="_blank">
+          <button class="button is-inverted"><i class="fa fa-pinterest is-size-5 pr-3"></i>Pinterest</button>
+        </a>
+      </div>
+    </nav>
+    <div class="box">
+      <h4 class="is-size-4 has-text-weight-medium">🚀 What motivates me</h4>
+      <ul>
+        <li>
+          I want to make a difference. As difficult as teaching was, I never doubted why I did it. I constantly seek that
+          same feeling of doing my part to make this world a better place, no matter what career choices I make.
+        </li>
+        <li>
+          The weekend. Really. I want to wrap up as much as I can during the week so I can 100% focus on my family outside
+          of working hours.
+        </li>
+        <li>
+          Travel. I love exploring new places, especially any place with a temperate climate and good snorkeling.
+        </li>
+        <li>
+          Making friends and developing relationships. My best friend’s go-to line is, “How can I support your success?”
+          and I’ve adopted that as my approach as well, though I don’t often verbalize it. I want to be your friend and
+          see you succeed, so always reach out if you think I can help you!
+        </li>
+      </ul>
+    </div>
+  </section>
 </article>
