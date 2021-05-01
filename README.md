@@ -1,41 +1,13 @@
-# Bridgetown Website README
 
-Welcome to your new Bridgetown website! You can update this README file to provide additional context and setup information for yourself or other contributors.
-
-## Table of Contents
-
-- [Prerequisites](#prerequisites)
-- [Install](#install)
-- [Development](#development)
-- [Commands](#commands)
-- [Deployment](#deployment)
-- [Contributing](#contributing)
-
-## Prerequisites
-
-- [GCC](https://gcc.gnu.org/install/)
-- [Make](https://www.gnu.org/software/make/)
-- [Ruby](https://www.ruby-lang.org/en/downloads/)
-  - `>= 2.5`
-- [Bridgetown Gem](https://rubygems.org/gems/bridgetown)
-  - `gem install bundler bridgetown -N`
-- [Node](https://nodejs.org)
-  - `>= 10.13`
-- [Yarn](https://yarnpkg.com)
-
-## Install
-
-```sh
-cd bridgetown-site-folder
-bundle install && yarn install
-```
-> Learn more: [Bridgetown Getting Started Documentation](https://www.bridgetownrb.com/docs/).
+# CodeWitch.dev README
+Welcome! CodeWitch.dev is Audrea Cook's technical blog and portfolio. It is a constant work in progress, so check back
+soon for new features and updates!
 
 ## Development
 
-To start your site in development mode, run `yarn start` and navigate to [localhost:4000](https://localhost:4000/)!
+Follow [Bridgetown's setup instructions](https://www.bridgetownrb.com/docs).
 
-Use a [theme](https://github.com/topics/bridgetown-theme), add some [plugins](https://www.bridgetownrb.com/plugins/), and/or run some [automations](https://github.com/topics/bridgetown-automation) to get started quickly.
+To start your site in development mode, run `yarn start` and navigate to [localhost:4000](https://localhost:4000/)!
 
 ### Commands
 
@@ -54,13 +26,16 @@ bundle exec bridgetown console
 
 ## Deployment
 
-You can deploy Bridgetown sites on "Jamstack" hosts (Netlify, Vercel, Render, etc.) or virtually any tranditional web server by simply building and copying the output folder to your HTML root.
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6ea32ceb-c1ec-424b-ad9b-12530da99310/deploy-status)](https://app.netlify.com/sites/nostalgic-bartik-1b98bd/deploys)
 
-> Read the [Bridgetown Deployment Documentation](https://www.bridgetownrb.com/docs/deployment) for more information.
+## Resources
+- [Bridgetown](https://www.bridgetownrb.com)
+- [Bulmatown](https://github.com/whitefusionhq/bulmatown)
+- [Bulma](https://www.bulma.io)
 
 ## Contributing
 
-If repo is on GitHub:
+If you see room for improvement, please file an issue or submit a pull request!
 
 1. Fork it
 2. Clone the fork using `git clone` to your local development machine.
@@ -68,3 +43,11 @@ If repo is on GitHub:
 4. Commit your changes (`git commit -am 'Add some feature'`)
 5. Push to the branch (`git push origin my-new-feature`)
 6. Create a new Pull Request
+
+## Recognition
+Special thanks goes to:
+- @baronlip for fixing my pathetic attempt at a logo
+- @boardfish for general technical know-how and suggesting the Bridgetown framework
+- @docswarlock for helping with copy and generally putting up with being married to The Code Witch. 
+- @eileenmsantiago for her amazing design work
+- @jaredcwhite and the folks at Bridgetown for being helpful throughout this process
