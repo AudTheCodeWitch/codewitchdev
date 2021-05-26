@@ -1,4 +1,6 @@
-source "https://rubygems.org"
+# frozen_string_literal: true
+
+source 'https://rubygems.org'
 git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 
 # Hello! This is where you manage which Bridgetown version is used to run.
@@ -16,10 +18,10 @@ git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 #
 # Happy Bridgetowning!
 
-gem "bridgetown", "~> 0.20.0"
+gem 'bridgetown', '~> 0.20.0'
 
-gem "bulmatown", "~> 1.1", :group => :bridgetown_plugins
+gem 'bulmatown', '~> 1.1', group: :bridgetown_plugins
 
-gem "bridgetown-quick-search", "~> 1.0", :group => :bridgetown_plugins
+gem 'bridgetown-quick-search', '~> 1.0', group: :bridgetown_plugins
 
-gem 'bridgetown-seo-tag', group: "bridgetown_plugins"
+gem 'bridgetown-seo-tag', group: 'bridgetown_plugins'
