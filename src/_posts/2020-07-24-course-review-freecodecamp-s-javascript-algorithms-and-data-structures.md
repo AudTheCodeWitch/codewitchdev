@@ -3,8 +3,8 @@ layout: post
 date: 2020-07-24 16:00:00 -0600
 title: 'Course Review: FreeCodeCamp''s JavaScript Algorithms and Data Structures'
 permalink: course_review_freecodecamps_javascript_algorithms_and_data_structures'
-image: https://cdn.pixabay.com/photo/2020/05/20/05/44/digitization-5194814_1280.jpg
-image_hero: https://cdn.pixabay.com/photo/2020/05/20/05/44/digitization-5194814_1280.jpg
+image: /images/heroes/js_algorithms_and_data_structures.jpg
+image_hero: /images/heroes/js_algorithms_and_data_structures.jpg
 rainbow_hero: true
 ---
 Last week, I completed freeCodeCamp's JavaScript Algorithms and Data Structures course.
