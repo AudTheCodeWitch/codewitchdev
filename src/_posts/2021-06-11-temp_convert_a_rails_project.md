@@ -1,8 +1,8 @@
 ---
 layout: post
 date: 2021-06-11 14:30:00 -0600
-title: 'Temp Convert: a Rails Project'
-permalink: temp_convert_a_rails_project
+title: 'Temp Convert: a React Project'
+permalink: temp_convert_a_react_project
 image: /images/heroes/temp_convert.jpg
 image_hero: /images/heroes/temp_convert.jpg
 rainbow_hero: true
